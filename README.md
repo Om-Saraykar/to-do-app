@@ -1,15 +1,12 @@
-Here's the updated `README.md` file with a section added to guide users on setting up the `.env` file for both the frontend and backend. 
-
-
 # 🌟 MERN Todo Application
-
-![Todo App Banner](./frontend/src/assets/banner.jpg)
 
 > A modern and beautiful Todo application built using the MERN stack (MongoDB, Express, React, Node.js) with Tailwind CSS for stunning visuals and smooth animations.
 
-## 🎥 Demo
+## 🎥 Video
 
-![App Demo Video](https://user-images.githubusercontent.com/123456789/your-video.gif)
+[![App Demo Video](https://img.youtube.com/vi/06BykWtV9w8/0.jpg)](https://youtu.be/06BykWtV9w8?si=xl4jFyPlf80exC5D)
+
+
 
 > **Tip:** Click on the video above to see a demo of the application in action!
 
