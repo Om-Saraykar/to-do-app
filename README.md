@@ -16,7 +16,6 @@
 - 🎨 Responsive and modern UI with Tailwind CSS
 - 🌈 Smooth animations and intuitive design
 - 🔄 Toggle task completion with a single click
-- 📅 Sort and filter tasks to manage your day better
 
 ## 🛠️ Installation & Setup
 
@@ -83,7 +82,7 @@ For the application to run correctly, you need to set up environment variables i
 2. Start the backend server:
 
     ```bash
-    npm run dev
+    npm run server
     ```
 
     The backend will be running on `http://localhost:5000`.
