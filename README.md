@@ -136,4 +136,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 📧 Contact
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/om-saraykar/) or email me at [omsaraykar@example.com].
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/om-saraykar/) or email me at [omsaraykar@gmail.com].
